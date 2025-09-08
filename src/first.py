@@ -1,2 +1,2 @@
 print("Hellow !!!")
-a = 12
+a, x = 12, 45
